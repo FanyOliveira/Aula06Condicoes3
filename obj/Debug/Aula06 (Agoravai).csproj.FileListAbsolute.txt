@@ -1,0 +1,7 @@
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\bin\Debug\Aula06 (Agoravai).exe.config
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\bin\Debug\Aula06 (Agoravai).exe
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\bin\Debug\Aula06 (Agoravai).pdb
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\obj\Debug\Aula06 (Agoravai).csproj.AssemblyReference.cache
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\obj\Debug\Aula06 (Agoravai).csproj.CoreCompileInputs.cache
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\obj\Debug\Aula06 (Agoravai).exe
+C:\Users\rafany.cojesus\source\repos\Aula06 (Agoravai)\Aula06 (Agoravai)\obj\Debug\Aula06 (Agoravai).pdb
